@@ -3,7 +3,7 @@ from jinja2 import Template
 import colorama as colorama
 from pyfiglet import Figlet
 def logo():
-    print('version:1.0 | made by xkllz | date:2023/05/0')
+    print('version:1.0 | made by xkllz | date:2023/05/07')
 
     # 初始化 colorama 库，以便在控制台上输出 ANSI 转义序列
     colorama.init()
