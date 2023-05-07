@@ -15,7 +15,12 @@
 
 -m指定内置字典
 
+# 安装
+git clone https://github.com/xk11z/dirxk.git 
 
+cd dirxk 
+
+pip install -r requirements.txt
 # 项目截图
 ## 界面
 ![l界面](https://user-images.githubusercontent.com/126586204/236677457-800bb799-7620-47f0-b110-9abb7fd7a521.PNG)
